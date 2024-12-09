@@ -1,0 +1,1 @@
+#Escribimos HOLA, ctrl+S Salvar, ctrl+X Salir
